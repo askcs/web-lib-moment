@@ -5,4 +5,5 @@ define ['services/services', 'moment'], (services, moment) ->
     ->
       moment
   ]
+
   return
